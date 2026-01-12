@@ -69,3 +69,6 @@ Adaptive-Intrusion-Detection-System/
 
 ### ml model accuracy
 ![ml model accuracy](screenshots/ml_model_accuracy.png)
+
+## 🚀 Live Demo
+👉 https://pt3bissvmgsyk8bd4jtdom.streamlit.app/
