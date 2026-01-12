@@ -59,4 +59,13 @@ Adaptive-Intrusion-Detection-System/
 ├── requirements.txt
 └── README.md
 
+## 📸 Screenshots
 
+### filter_traffic
+![filter traffic](screenshots/filter_traffic.png)
+
+### traffic type
+![traffic type](screenshots/traffic_type.png)
+
+### ml model accuracy
+![ml model accuracy](screenshots/ml_model_accuracy.png)
