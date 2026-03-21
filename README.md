@@ -1,4 +1,4 @@
-# 🛡️ Adaptive Intrusion Detection System (AIDS)
+# 🛡️ Adaptive Intrusion Detection System
 
 An end-to-end **Machine Learning–based Intrusion Detection System** that detects malicious network traffic using both **offline datasets** and **real-time packet inspection**.
 
